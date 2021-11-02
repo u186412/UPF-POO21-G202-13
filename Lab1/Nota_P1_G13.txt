@@ -1,0 +1,12 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL
+10	10	10	10	10	7,5	9,75
+
+Falta documentar mejor el código.
+En el report falta añadir imagenes de los métodos que se han creado para acompañar a la explicación dada y la cual debería ser tratada con más profundidad. También hace falta profundizar más en la forma en que trabajó el grupo y la distribución de las actividades entre los mismos.
+
+El programa se ejecuta correctamente.
+
+
+
+
