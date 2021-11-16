@@ -1,0 +1,12 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL
+10	10	10	10	10	9,5	9,95	0,9	8,96
+
+El report es correcto, solo falta añadir imagenes explicativas de los métodos más importantes que se han realizado.
+El código se encuentra comentado, aunque se podría añadir comentarios generales de lo que hacen los
+métodos más importantes de cada clase.
+El programa funciona correctamente. 
+
+Se aplica factor de multiplicación 0,9 por entrega fuera de plazo.
+Nota final. 8,96.
+
