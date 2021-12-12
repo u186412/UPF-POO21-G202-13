@@ -1,0 +1,16 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL   factor de multiplicación     NOTA FINAL después del factor
+
+10	10	10	10	10	10	10	1	11,00
+
+
+El report es correcto y el código se encuentra documentado.
+Buen trabajo.
+El código se ejecuta correctamente. Genial haber implementado
+los oceanos y lagos.
+
+
+
+
+
+
