@@ -1,0 +1,22 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL   factor de multiplicación     NOTA FINAL después del factor
+10	10	10	9	10	9,5	9,65	0,8	8,72
+
+El informe es correcto.
+Falta comentar un poco más el código.
+La ejecución del programa de forma gráfica es correcta, pero no se termina de calcular
+bien el punto de isPointInside. 
+if (this.drawables.get(i).isPointInside(mouse) == true) {
+				this.selection.addLast(this.drawables.get(i));
+				System.out.println("Dentro");
+			}
+			else {
+				System.out.println("Fuera");
+			}
+Al añadir esto, si presiono fuera de una figura elipsoidal, y cerca del elipse rosa
+se mueve la figura rosa y no se ha seleccionado.
+Se multiplica por 0,8 y se añade 1 punto
+por la implementación de la parte opcional.
+
+
+
