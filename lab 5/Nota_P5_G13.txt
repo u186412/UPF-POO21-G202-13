@@ -1,0 +1,22 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL   factor de multiplicación     NOTA FINAL después del factor
+10,00	10,00	10,00	8,00	10,00	9,80	9,38	0,80	7,5
+
+El código no se encuentra documentado. El report es correcto.
+El programa muestra fallos, por ejemplo si yo compro un libro y le doy check out, la primera vez es correcto, me muestra que pago el valor del libro, pero después de realizar el check out y sin escoger ningún otro libro, si vuelvo a presionar check out me vuelve a salir que debo de pagar la cantidad anterior.
+Después también después de realizar eso, vuelvo a seleccionar otro libro y entonces la cantidad que me aparece es la suma de la compra anterior y la nueva compra.
+Se valora código y se utiliza factor de penalizacion 0,8 por los fallos mencionados. 
+----------------------------------------------------------
+Respondiendo a vuestra pregunta del lab4, no se ha penalizado la entrega fuera de plazo, sino lo que dice el informe que les he enviado. 
+"La ejecución del programa de forma gráfica es correcta, pero no se termina de calcular
+bien el punto de isPointInside. 
+if (this.drawables.get(i).isPointInside(mouse) == true) {
+				this.selection.addLast(this.drawables.get(i));
+				System.out.println("Dentro");
+			}
+			else {
+				System.out.println("Fuera");
+			}
+Al añadir esto, si presiono fuera de una figura elipsoidal, y cerca del elipse rosa
+se mueve la figura rosa y no se ha seleccionado."
+Este es el motivo del factor de multiplicación.
